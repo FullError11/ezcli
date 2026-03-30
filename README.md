@@ -1,4 +1,4 @@
-# Easy Commmand Line Interface
+# Easy Command Line Interface
 
 自用，开发阶段
 
